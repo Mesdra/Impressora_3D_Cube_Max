@@ -1,4 +1,4 @@
-# Impresora_3D_Cube_Max
+# 3D_Cube_Max
 
 Below is an image illustrating the current version of the printer.
 
