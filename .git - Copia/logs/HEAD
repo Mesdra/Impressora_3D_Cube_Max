@@ -1,0 +1,28 @@
+0000000000000000000000000000000000000000 42d3cb0b83137b23819557ef4099368a7e55bd24 Vinicius Cavalari <vinicavalari97@gmail.com> 1678168050 -0300	clone: from https://github.com/Mesdra/Impresora_3D_Cube_Max.git
+42d3cb0b83137b23819557ef4099368a7e55bd24 7bedfe915fa4f6c0b68fd4dbd070453f2188d15e Vinicius Cavalari <vinicavalari97@gmail.com> 1678168099 -0300	commit: Primeiro Commit Rep Exclusivo
+7bedfe915fa4f6c0b68fd4dbd070453f2188d15e 69b1e561ee4617dfc06c1a157d84413580d5c4c8 Vinicius Cavalari <vinicavalari97@gmail.com> 1678170706 -0300	commit: Modelagem do tencionador de correia em andamento
+69b1e561ee4617dfc06c1a157d84413580d5c4c8 09bb63ebfb652bb91e133600bb47f8527e777b7d Vinicius Cavalari <vinicavalari97@gmail.com> 1678172204 -0300	commit: Suporte Correia em desenvolvimento
+09bb63ebfb652bb91e133600bb47f8527e777b7d 41de35bd74a76dca61298374567dc24258865d72 Vinicius Cavalari <vinicavalari97@gmail.com> 1678659664 -0300	commit: Criando Elementos do Eixo X
+41de35bd74a76dca61298374567dc24258865d72 7c431dc4fe513257cdd2d4e9768e1c645e75fccb Vinicius Cavalari <vinicavalari97@gmail.com> 1678913413 -0300	commit: Primeira versão da base finalizada
+7c431dc4fe513257cdd2d4e9768e1c645e75fccb c6cebd7a8b940da55c3c1c2ac6bd8d0ed2d70036 Vinicius Cavalari <vinicavalari97@gmail.com> 1679542425 -0300	commit: Eixo y em desenvolvimento
+c6cebd7a8b940da55c3c1c2ac6bd8d0ed2d70036 227b596adc95662dc38bbb606279d23be1212a70 Vinicius Cavalari <vinicavalari97@gmail.com> 1679775658 -0300	commit: Construção do Carrinho em andamento
+227b596adc95662dc38bbb606279d23be1212a70 3b93b5b4db667b8e9bae433bec7b1322d6e597f0 Vinicius Cavalari <vinicavalari97@gmail.com> 1679786606 -0300	commit: Att bl touch
+3b93b5b4db667b8e9bae433bec7b1322d6e597f0 e71e5ed2ffa2b0148a25dde8881e4ac4313acbdd Vinicius Cavalari <vinicavalari97@gmail.com> 1679805856 -0300	commit: inserindo Probe + hote end no lugar
+e71e5ed2ffa2b0148a25dde8881e4ac4313acbdd 6b9796167443da40c0ac5dfbea09bb6b97a2de51 Vinicius Cavalari <vinicavalari97@gmail.com> 1679887927 -0300	commit: criando duto do fan
+6b9796167443da40c0ac5dfbea09bb6b97a2de51 d9521a7042087ae6608eb015a9d08d84abc95855 Vinicius Cavalari <vinicavalari97@gmail.com> 1679904685 -0300	commit: Att fan hotend
+d9521a7042087ae6608eb015a9d08d84abc95855 0d702bd83d7ed2a4026a1083986755023f42cf91 Vinicius Cavalari <vinicavalari97@gmail.com> 1679905960 -0300	commit: Att documento
+0d702bd83d7ed2a4026a1083986755023f42cf91 97901f36e58a9a3fdf12ad4aba272581f2ce4d7b Vinicius Cavalari <vinicavalari97@gmail.com> 1679906233 -0300	commit: Att filetes
+97901f36e58a9a3fdf12ad4aba272581f2ce4d7b b436cc6eab264257240ca699cde1c04929497c9f Vinicius Cavalari <vinicavalari97@gmail.com> 1680145712 -0300	commit: Asuporte Extrusor Finalizado
+b436cc6eab264257240ca699cde1c04929497c9f 55d623f75072d825d6a381d747b868d7e51ca056 Vinicius Cavalari <vinicavalari97@gmail.com> 1680488347 -0300	commit: Suporte arduino finalizado
+55d623f75072d825d6a381d747b868d7e51ca056 180d8c39968c00034f21c6b2ed40fdf6e6530cba Vinicius Cavalari <vinicavalari97@gmail.com> 1680490095 -0300	commit: Att primeira versão finalizada, sem revisão
+180d8c39968c00034f21c6b2ed40fdf6e6530cba 3d714e1f280b065d22ea652a1bf835e2d6cf98cf Vinicius Cavalari <vinicavalari97@gmail.com> 1680664367 -0300	commit: V1 Finalizada
+3d714e1f280b065d22ea652a1bf835e2d6cf98cf 4cea38a210727a3d58cd43ba9a9b03c00989d830 Vinicius Cavalari <vinicavalari97@gmail.com> 1680667176 -0300	commit: Ajustando estilos
+4cea38a210727a3d58cd43ba9a9b03c00989d830 8d79fa25d45b9bed3a42654ca6e627581a9f153d Vinicius Cavalari <vinicavalari97@gmail.com> 1680667417 -0300	commit: removendo lixo
+8d79fa25d45b9bed3a42654ca6e627581a9f153d 662945f6a7535bcc63e4ab49143f95ca757de9de Vinicius Cavalari <vinicavalari97@gmail.com> 1680667639 -0300	commit: Inclusão Imagem Impressora
+662945f6a7535bcc63e4ab49143f95ca757de9de f7cf3a19bf11d31f8b2918c4142d45ef8001f6f1 Vinicius Cavalari <vinicavalari97@gmail.com> 1680667707 -0300	commit: Att git
+f7cf3a19bf11d31f8b2918c4142d45ef8001f6f1 ebb7aec2b6f00fab7918ba0043b0f705a2f6a88d Vinicius Cavalari <vinicavalari97@gmail.com> 1680667851 -0300	pull origin main: Fast-forward
+ebb7aec2b6f00fab7918ba0043b0f705a2f6a88d 85d08373f36f4aefe9e987180143acea5c8c0fda Vinicius Cavalari <vinicavalari97@gmail.com> 1680735769 -0300	commit: Inclusão do painel de energia
+85d08373f36f4aefe9e987180143acea5c8c0fda b6f807fa38024e534ab631e9c87034cfe96b786b Vinicius Cavalari <vinicavalari97@gmail.com> 1680737337 -0300	commit: Incluindo Peças .STL prontas para a impressão
+b6f807fa38024e534ab631e9c87034cfe96b786b 9e664b1b82839cb9b1511a5000f626c45874ac8b Vinicius Cavalari <vinicavalari97@gmail.com> 1680737352 -0300	pull origin main: Merge made by the 'ort' strategy.
+9e664b1b82839cb9b1511a5000f626c45874ac8b 830942558fa1c72fe0873cf520e0bed1a575470e Vinicius Cavalari <vinicavalari97@gmail.com> 1680816407 -0300	commit: Update
+830942558fa1c72fe0873cf520e0bed1a575470e 5f5ce1ee2fea9c44dc9b7cc674f4a26f5e93dda8 Vinicius Cavalari <vinicavalari97@gmail.com> 1680816441 -0300	commit: Att nome
